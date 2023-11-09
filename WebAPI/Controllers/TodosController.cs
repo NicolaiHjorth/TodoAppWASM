@@ -82,7 +82,7 @@ public class TodosController : ControllerBase
         try
         {
             TodoBasicDto result = await todoLogic.GetByIdAsync(id);
-            return Ok();
+            return Ok(result);
         }
         catch (Exception e)
         {

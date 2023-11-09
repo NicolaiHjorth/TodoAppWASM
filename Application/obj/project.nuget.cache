@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jCa6LUMLsXgsZvAGBnr3zUznkZ5Ie4z0G5ZrkpasydyT/gDUgfiI8hE/BZGYA/Eq7ioQHNmMtFejzBVbMaSrtQ==",
+  "dgSpecHash": "Vcqi5VFdLwGxqFhL7LAgtFZpxZalEYH7xhXbWsPtjbEcZBYZdXwupoDoJXB5gs5lJe2zaKYowD/NZwW5lKKT3w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nicol\\RiderProjects\\TodoAppWASM\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\nicol\\RiderProjects\\TodoApp\\Application\\Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
