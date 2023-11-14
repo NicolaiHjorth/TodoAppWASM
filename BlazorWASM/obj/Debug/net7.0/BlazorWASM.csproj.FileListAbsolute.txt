@@ -833,6 +833,10 @@ C:\Users\nicol\RiderProjects\TodoApp\BlazorWASM\obj\Debug\net7.0\staticwebassets
 C:\Users\nicol\RiderProjects\TodoApp\BlazorWASM\obj\Debug\net7.0\staticwebassets.pack.json
 C:\Users\nicol\RiderProjects\TodoApp\BlazorWASM\obj\Debug\net7.0\staticwebassets.build.json
 C:\Users\nicol\RiderProjects\TodoApp\BlazorWASM\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\nicol\RiderProjects\TodoApp\BlazorWASM\obj\Debug\net7.0\scopedcss\Pages\UIComponents\FancyCheckBox.razor.rz.scp.css
+C:\Users\nicol\RiderProjects\TodoApp\BlazorWASM\obj\Debug\net7.0\scopedcss\Pages\UIComponents\Modal.razor.rz.scp.css
+C:\Users\nicol\RiderProjects\TodoApp\BlazorWASM\obj\Debug\net7.0\scopedcss\Pages\ViewTodos.razor.rz.scp.css
+C:\Users\nicol\RiderProjects\TodoApp\BlazorWASM\obj\Debug\net7.0\scopedcss\Pages\ViewUsers.razor.rz.scp.css
 C:\Users\nicol\RiderProjects\TodoApp\BlazorWASM\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
 C:\Users\nicol\RiderProjects\TodoApp\BlazorWASM\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
 C:\Users\nicol\RiderProjects\TodoApp\BlazorWASM\obj\Debug\net7.0\scopedcss\bundle\BlazorWASM.styles.css
@@ -842,7 +846,3 @@ C:\Users\nicol\RiderProjects\TodoApp\BlazorWASM\obj\Debug\net7.0\BlazorWASM.dll
 C:\Users\nicol\RiderProjects\TodoApp\BlazorWASM\obj\Debug\net7.0\refint\BlazorWASM.dll
 C:\Users\nicol\RiderProjects\TodoApp\BlazorWASM\obj\Debug\net7.0\BlazorWASM.pdb
 C:\Users\nicol\RiderProjects\TodoApp\BlazorWASM\obj\Debug\net7.0\ref\BlazorWASM.dll
-C:\Users\nicol\RiderProjects\TodoApp\BlazorWASM\obj\Debug\net7.0\scopedcss\Pages\ViewUsers.razor.rz.scp.css
-C:\Users\nicol\RiderProjects\TodoApp\BlazorWASM\obj\Debug\net7.0\scopedcss\Pages\ViewTodos.razor.rz.scp.css
-C:\Users\nicol\RiderProjects\TodoApp\BlazorWASM\obj\Debug\net7.0\scopedcss\Pages\UIComponents\FancyCheckBox.razor.rz.scp.css
-C:\Users\nicol\RiderProjects\TodoApp\BlazorWASM\obj\Debug\net7.0\scopedcss\Pages\UIComponents\Modal.razor.rz.scp.css

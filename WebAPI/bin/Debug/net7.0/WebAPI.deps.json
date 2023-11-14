@@ -10,7 +10,6 @@
         "dependencies": {
           "Application": "1.0.0",
           "EfcDataAccess": "1.0.0",
-          "FileData": "1.0.0",
           "Microsoft.AspNetCore.OpenApi": "7.0.2",
           "Swashbuckle.AspNetCore": "6.4.0"
         },
@@ -377,14 +376,6 @@
         "runtime": {
           "EfcDataAccess.dll": {}
         }
-      },
-      "FileData/1.0.0": {
-        "dependencies": {
-          "Application": "1.0.0"
-        },
-        "runtime": {
-          "FileData.dll": {}
-        }
       }
     }
   },
@@ -622,11 +613,6 @@
       "sha512": ""
     },
     "EfcDataAccess/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "FileData/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
